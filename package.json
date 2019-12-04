@@ -1,11 +1,10 @@
 {
   "name": "next-starter-jamstack",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "next build && next export",
+    "start": "next dev"
   },
   "dependencies": {
     "next": "9.1.4",
