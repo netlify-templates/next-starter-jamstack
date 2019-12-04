@@ -44,14 +44,13 @@ You can read more about building sites and apps with Next.js in their documentat
 
 https://nextjs.org/docs
 
+## Doing dynamic things
 
-## Limitations
+A few resources for doing anything you can imagine with a 100% static site/app on the JAMstack
+using Next.js. If you would like to add more resources please open a pull request!
 
-Please note that Next.js does not cater heavily to static site generation, and limitations of the system are listed in their docs:
-
-https://nextjs.org/docs#limitation
-
-These limitations mostly apply to server side rendering. A fully static site/app can avoid these limitations by fetching dynamic content at build time, making API calls from the client, and through [serverless functions](https://www.netlify.com/functions).
+- [Using Next.js as a Static Site Generator for Netlify](https://scotch.io/@sw-yx/using-nextjs-as-a-static-site-generator-for-netlify) - [Shawn Wang](https://twitter.com/swyx)
+- [Serverless Next.js 9 on Netlify Functions](https://community.netlify.com/t/serverless-next-js-9-on-netlify-functions/1956) - [Shawn Wang](https://twitter.com/swyx)
 
 ## Deploying to Netlify
 
