@@ -1,4 +1,4 @@
-# A Next.js starter for the [JAMstack](https://jamstack.org)
+# A Next.js starter for the [Jamstack](https://jamstack.org)
 This is a boilerplate for using [Next.js](https://nextjs.org/) as a static site generator.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-starter-jamstack)
@@ -46,7 +46,7 @@ https://nextjs.org/docs
 
 ## Doing dynamic things
 
-A few resources for doing anything you can imagine with a 100% static site/app on the JAMstack
+A few resources for doing anything you can imagine with a 100% static site/app on the Jamstack
 using Next.js. If you would like to add more resources please open a pull request!
 
 - [Using Next.js as a Static Site Generator for Netlify](https://scotch.io/@sw-yx/using-nextjs-as-a-static-site-generator-for-netlify) - [Shawn Wang](https://twitter.com/swyx)
