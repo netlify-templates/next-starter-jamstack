@@ -7,7 +7,7 @@
     "start": "next dev"
   },
   "dependencies": {
-    "netlify-plugin-cache-nextjs": "^1.6.0",
+    "netlify-plugin-cache-nextjs": "^1.6.1",
     "next": "^10.0.8",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
