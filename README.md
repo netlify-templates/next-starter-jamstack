@@ -1,4 +1,9 @@
 # A Next.js starter for the [Jamstack](https://jamstack.org)
+
+> ⚠️ **Deprecation Notice** 🏳
+>
+> We are focusing our resources on building new templates that help you build a better web, because of that we're deprecating this template. We care about the community so we propose if anyone wants to maintain or take stewardship over the project please contact us at [devexperience@netlify.com](mailto:devexperience@netlify.com). If you want to share anything with the team about this template, you can also fill out [this form](https://template-feedback.netlify.app/).
+
 This is a boilerplate for using [Next.js](https://nextjs.org/) as a static site generator.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-starter-jamstack)
